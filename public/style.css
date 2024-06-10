@@ -1,0 +1,31 @@
+.section1{
+    height: 50px ;
+    width: 75%;
+    border: solid black 1px;
+    margin: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+
+}
+.section2{
+    height: 50px;
+    width: 75%;
+    border: solid black 1px;
+    margin: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+
+    
+}
+.section3{
+    height: 50px;
+    width: 75%;
+    border: solid black 1px;
+    margin: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+
+}
+.space{
+    margin-right: 5px;
+}
